@@ -1,6 +1,6 @@
 # Mansplaining Api
 
-An api that returns a series of condescending responses. 
+An apollo graphql api that returns a series of condescending responses. 
 
 ## Getting Started
 
